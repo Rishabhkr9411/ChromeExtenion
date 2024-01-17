@@ -1,0 +1,20 @@
+{
+    "name":"Ask Questions",
+    "version":"1.0",
+    "description":" A chrome extension for efficient internet browsing",
+    "manifest_version":3,
+    "icons":{
+        "16":"iconQurious.png",
+        "32":"iconQurious.png", 
+        "48":"iconQurious.png",
+        "128":"iconQurious.png"
+    },
+    "content_scripts":[
+        {
+            "js":["scripts/popup.js","scripts/content.js"],
+            "css":["scripts/content.css"],
+            "matches":["<all_urls>"]
+        }
+    ]
+    
+}

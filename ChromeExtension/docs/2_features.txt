@@ -1,0 +1,28 @@
+
+
+by me additional  :- highlight the word on the webpage just by saying 
+should be invoked via a button, keyboard shortcut or voice command
+should take input via a voice command or text to what to do 
+List of people: should be able to give me the following for the list of people
+    A brief
+    images 
+    latest news 
+    linkedln , twitter and insta handles : should be able to follow them without leaving page
+    wikipedia 
+    google search 
+List of places : should be able to give me the following for the lsit of places
+    A brief
+    map
+    images 
+    latest news 
+    wikipedia
+    google search 
+List of comapnies : should be able to give me the following for the list of places
+    A brief
+    website 
+    images 
+    latest news 
+    wikipedia 
+    google search
+Acces chatgpt , bing, bard , google,maps, wikipedia from page itself
+

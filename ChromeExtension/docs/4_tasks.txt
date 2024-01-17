@@ -1,0 +1,8 @@
+basic setup and hello world
+Show a button on all websites
+visual cues of clickbility on the button
+start fake listening on btn click and stop fake listening on next click
+visual cues of listening on the button
+start real  listening on btn click and stop on btn click again .(speechtotext)
+Display captured transcript on popup
+The btn clicks should also happen via a keyboard shortcut
